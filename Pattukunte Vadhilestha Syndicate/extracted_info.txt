@@ -1,0 +1,14 @@
+Based on the provided text, here is the extracted information in the requested format:
+
+```
+{
+    "Card Type": "Student Identity Card",
+    "Name": "YOGESHWARAN R",
+    "ID Number": "2023179047",
+    "Date of Birth": "",
+    "Address": "ANNA UNIVERSITY, Chennai-600 025",
+    "Other Information": "MCA: Computer Application (SS), Dean (CEG)"
+}
+```
+
+Note: The date of birth is not mentioned in the provided text, so it is left blank. The address is extracted as the university address, which might not be the student's residential address, but it is the only address available in the text. The "Other Information" field includes the student's course and department details.
